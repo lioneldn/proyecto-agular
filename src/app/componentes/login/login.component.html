@@ -1,0 +1,32 @@
+<body class="bodylogin" >
+    
+    <div class="loginbox">
+        <img class="icono" src="./imagenes/banner.png" alt="">
+       <h1>LOGIN</h1>
+        <form name="login" action="">
+            <label for="usuario">Usuario</label>
+            <input type="text" value="" name="usuario" placeholder="ingresa nombre de usuario">
+            <label for="contraseña" >Contraseña</label>
+            <input type="password" value="" name="password" placeholder="ingresa la contraseña">
+            <input type="submit" value="Entrar" onclick="event.preventDefault( ) ; Login( )">
+            <a href="" style="color: blue;">No recuerdas tu contraseña?</a>
+        
+        </form> 
+    </div>
+    <script language="JavaScript"> 
+        function Login() { 
+             if (document.login.usuario.value=="lioneldn.dev@gmail.com" && document.login.password.value=="proyecto0") { 
+                window.location.href = "./index.html";  
+              
+              }
+             
+        else{
+         alert("Porfavor ingrese, nombre de usuario y contraseña correctos.");
+        
+        }
+        }
+
+        
+                </script> 
+   
+</body>

@@ -1,0 +1,50 @@
+{
+	"name": "Lionel David Nuñez",
+	"position": "Full Stack Developer jr",
+
+	"education": [{
+
+		"school": {
+			"name": "ICI Instituto de capacitacion integral",
+			"tittle": "Técnico en reparación de computadoras",
+			"start": "2009",
+			"end": "2010"
+		},
+
+		"school": {
+			"name": "Escuela secundaria  N° 3035 Nuestra Sra. del Valle",
+			"title": "Economía y gestión de las organizaciones",
+			"start": "2000",
+			"end": "2005"
+		},
+
+		"school": {
+			"name": "Escuela primaria Republica de Lituania",
+			"start": "1991",
+			"end": "1999"
+		}
+
+	}],
+
+	"experience": [{
+		"job": {
+			"name": "ToolSoft SRL",
+			"tiitle": "Soporte tecnico en infraestructura informatica",
+			"star": "2022",
+			"end": "Actualidad"
+		},
+		"job": {
+			"name": "Distribuidora Fedmart SRL",
+			"tittle": "Encargado de deposito y mantenimiento de equipo informatico",
+			"start": "2014",
+			"end": "2022"
+
+		},
+		"job": {
+			"name": "Tecnico en reparacion de computadoras",
+			"tittle": "Autonomo",
+			"start": "2009",
+			"end": "Actualidad"
+		}
+	}]
+}
